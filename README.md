@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/48a30636-b2fc-49ae-9ae7-139f8cc233b1)
+
+
 # Pomopilot: A Customizable Pomodoro Timer
 
 Pomopilot is a web-based Pomodoro timer application built with Next.js, designed to boost productivity and help users manage their time effectively using the Pomodoro Technique.
