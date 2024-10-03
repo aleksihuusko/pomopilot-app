@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/48a30636-b2fc-49ae-9ae7-139f8cc233b1)
-
+![image](https://github.com/user-attachments/assets/37b147d6-3253-42c1-935b-31dc102facdb)
 
 # Pomopilot: A Customizable Pomodoro Timer
 
