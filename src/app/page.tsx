@@ -143,7 +143,7 @@ export default function Home() {
           >
             <div className="absolute top-4 left-4 flex items-center gap-2 text-white">
               <TimerIcon className="size-8" />
-              <h1 className="text-2xl font-bold">Pomofocus</h1>
+              <h1 className="text-2xl font-bold">Pomopilot</h1>
             </div>
 
             <div className="mt-16 flex-grow flex items-center justify-center mb-4">
